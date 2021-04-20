@@ -5,6 +5,7 @@ in this project i implemented:
 - linked list and array list, comforming to java List interface
 - binary trees
 - graphs and common algorithms: BFS, DFS, MST
+- solved Knigh Problem using DFS approach
 - hash map with double hash probe, comforming to java Map interface
 - implemented some sorting algorithms
 - deque, comforming to java Deque interface
